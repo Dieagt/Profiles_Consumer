@@ -1,0 +1,10 @@
+#home-title{
+    margin: inherit;
+    height:fit-content;
+    font-size: 10vmin;
+}
+
+#home-links{
+    display: flex;
+    justify-content: space-evenly;
+}
